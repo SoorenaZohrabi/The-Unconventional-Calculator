@@ -1,4 +1,3 @@
-import('vendor.js')
 
 const defaultResult = 0;
 let currentResult = defaultResult;
